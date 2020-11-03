@@ -108,5 +108,7 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 Note
+
 Features are normalized and bounded within [-1, 1].
+
 Each feature vector is a row on the text file.
